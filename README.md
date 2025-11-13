@@ -17,6 +17,7 @@ Database System: PostgreSQL
 IntelliJ Integration: The database connection was configured directly within IntelliJ's Database Tool Window to facilitate visual exploration of schemas and tables.
 
 <img width="632" height="602" alt="image" src="https://github.com/user-attachments/assets/0b563291-1b8e-416c-9903-5b5d37035af5" />
+
 ## 2. Entity Mapping (`Student.java`)
 
 We used JPA annotations to map the `Student` Java class to a database table.
