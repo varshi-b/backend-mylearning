@@ -10,7 +10,7 @@ public class Demo1 {
         // 1. Connection Details
         String url = "jdbc:postgresql://localhost:5432/test";
         String username = "postgres";
-        String password = "Sravs@009";
+        String password = 
 
         // Use a parameterized SQL query with a placeholder (?)
         String sql = "SELECT name FROM person WHERE id = ?";
