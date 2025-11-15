@@ -8,7 +8,7 @@ public class Demo {
         String sql = "select name from person where id =2";
         String url = "jdbc:postgresql://localhost:5432/test";
         String username = "postgres";
-        String password = "Sravs@009";
+        String password = 
         Connection conn = DriverManager.getConnection(url, username, password);
 
         Statement st = conn.createStatement();
